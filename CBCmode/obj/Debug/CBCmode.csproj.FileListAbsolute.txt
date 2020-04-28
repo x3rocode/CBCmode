@@ -1,0 +1,10 @@
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\bin\Debug\CBCmode.exe.config
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\bin\Debug\CBCmode.exe
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\bin\Debug\CBCmode.pdb
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.csprojAssemblyReference.cache
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.Form1.resources
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.Properties.Resources.resources
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.csproj.GenerateResource.cache
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.csproj.CoreCompileInputs.cache
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.exe
+C:\Users\z3roc\source\repos\CBCmode\CBCmode\obj\Debug\CBCmode.pdb
