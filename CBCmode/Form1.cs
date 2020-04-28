@@ -64,7 +64,7 @@ namespace CBCmode
         }
         private void Encryption()
         {
-            encryption = Encrypt.Encryption(plainbinary, iv);
+            encryption = CBC.Encryption(plainbinary, iv);
             foreach (string a in encryption)
             {
                 textBox4.Text += a;
@@ -114,7 +114,7 @@ namespace CBCmode
 
         private void Decryption()
         {
-            decryption = Decrypt.Decryption(encryption, iv);
+            decryption = CBC.Decryption(encryption, iv);
             foreach (string s in decryption)
                 textBox6.Text += s;
         }
